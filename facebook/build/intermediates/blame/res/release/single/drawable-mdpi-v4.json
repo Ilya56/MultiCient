@@ -1,0 +1,254 @@
+[
+    {
+<<<<<<< HEAD
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_large_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_white.png"
+=======
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_small_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png"
+>>>>>>> origin/master
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_icon_blue.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_icon_blue.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_square.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_close.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_send_icon_white.png"
+=======
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_close.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_icon_blue.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png"
+>>>>>>> origin/master
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_send_icon_blue.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png"
+=======
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_small_white.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_white.png"
+>>>>>>> origin/master
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_favicon_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png"
+=======
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_send_icon_blue.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_favicon_white.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_button_send_round_shadow.png"
+>>>>>>> origin/master
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+<<<<<<< HEAD
+=======
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_square.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_favicon_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_close.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+>>>>>>> origin/master
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_small_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png"
+=======
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_square.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_large_white.png",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messenger_bubble_large_white.png",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\drawable-mdpi\\messenger_bubble_large_white.png"
+>>>>>>> origin/master
+    }
+]

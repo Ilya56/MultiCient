@@ -1,0 +1,57 @@
+[
+    {
+        "outputFile": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+<<<<<<< HEAD
+=======
+    },
+    {
+        "outputFile": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.4.0\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+>>>>>>> origin/master
+    }
+]

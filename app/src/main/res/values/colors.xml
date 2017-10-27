@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSecond">#96fa96</color>
+    <color name="gray">#b4b4b4</color>
+    <color name="notRead">#6496fa96</color>
+    <color name="backBlack">#232323</color>
+    <color name="blue">#FF33B5E5</color>
+    <color name="toolbar_color">#1e701a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="vk_back">#4c75a3</color>
+</resources>

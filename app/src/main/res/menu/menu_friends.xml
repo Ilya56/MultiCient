@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/reload"
+        android:id="@+id/menu_reload"
+        android:icon="@android:drawable/stat_notify_sync"
+        tools:ignore="AppCompatResource" />
+</menu>

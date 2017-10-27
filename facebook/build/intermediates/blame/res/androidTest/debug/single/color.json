@@ -1,0 +1,21 @@
+[
+    {
+<<<<<<< HEAD
+=======
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_button_text_color.xml"
+    },
+    {
+>>>>>>> origin/master
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_button_text_color.xml"
+    }
+]

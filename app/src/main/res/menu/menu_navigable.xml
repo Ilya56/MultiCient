@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/profile"
+        android:id="@+id/profile"
+        android:icon="@mipmap/home"/>
+    <item android:title="@string/messages_news"
+        android:id="@+id/mess"
+        android:icon="@android:drawable/ic_dialog_email"/>
+    <item android:title="@string/friends"
+        android:id="@+id/friends"
+        android:icon="@drawable/friends"/>
+    <item android:title="@string/audio"
+        android:id="@+id/audio"
+        android:icon="@android:drawable/ic_media_play" />
+</menu>

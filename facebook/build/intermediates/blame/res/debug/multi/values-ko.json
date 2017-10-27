@@ -1,0 +1,699 @@
+[
+    {
+        "outputFile": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2419,
+                        "endColumn": 140,
+                        "endOffset": 2555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 102,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2190,
+                        "endColumn": 102,
+                        "endOffset": 2288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 104,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1985,
+                        "endColumn": 104,
+                        "endOffset": 2085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 91,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1893,
+                        "endColumn": 91,
+                        "endOffset": 1980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 62,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1233,
+                        "endColumn": 62,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 66,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 66,
+                        "endOffset": 1228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 59,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1833,
+                        "endColumn": 59,
+                        "endOffset": 1888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 67,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 67,
+                        "endOffset": 1828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 68,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1367,
+                        "endColumn": 68,
+                        "endOffset": 1431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 84,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1436,
+                        "endColumn": 84,
+                        "endOffset": 1516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 70,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 70,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 70,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1296,
+                        "endColumn": 70,
+                        "endOffset": 1362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 77,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1521,
+                        "endColumn": 77,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endColumn": 94,
+                    "endOffset": 1212
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 94,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1217,
+                    "endColumn": 61,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2357,
+                        "endColumn": 61,
+                        "endOffset": 2414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 63,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2293,
+                        "endColumn": 63,
+                        "endOffset": 2352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endColumn": 99,
+                    "endOffset": 1438
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2090,
+                        "endColumn": 99,
+                        "endOffset": 2185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1443,
+                    "endColumn": 58,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\values-ko\\messenger_button_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1164,
+                        "endColumn": 56,
+                        "endOffset": 1218
+                    }
+                }
+            }
+        ]
+<<<<<<< HEAD
+=======
+    },
+    {
+        "outputFile": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2419,
+                        "endColumn": 140,
+                        "endOffset": 2555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 102,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2190,
+                        "endColumn": 102,
+                        "endOffset": 2288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 104,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1985,
+                        "endColumn": 104,
+                        "endOffset": 2085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 91,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1893,
+                        "endColumn": 91,
+                        "endOffset": 1980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 62,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1233,
+                        "endColumn": 62,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 66,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 66,
+                        "endOffset": 1228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 59,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1833,
+                        "endColumn": 59,
+                        "endOffset": 1888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 67,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 67,
+                        "endOffset": 1828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 68,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1367,
+                        "endColumn": 68,
+                        "endOffset": 1431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 84,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1436,
+                        "endColumn": 84,
+                        "endOffset": 1516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 70,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 70,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 70,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1296,
+                        "endColumn": 70,
+                        "endOffset": 1362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 77,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1521,
+                        "endColumn": 77,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endColumn": 94,
+                    "endOffset": 1212
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 94,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1217,
+                    "endColumn": 61,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2357,
+                        "endColumn": 61,
+                        "endOffset": 2414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 63,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2293,
+                        "endColumn": 63,
+                        "endOffset": 2352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endColumn": 99,
+                    "endOffset": 1438
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2090,
+                        "endColumn": 99,
+                        "endOffset": 2185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1443,
+                    "endColumn": 58,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\values-ko\\messenger_button_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1164,
+                        "endColumn": 56,
+                        "endOffset": 1218
+                    }
+                }
+            }
+        ]
+>>>>>>> origin/master
+    }
+]

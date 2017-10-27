@@ -1,0 +1,699 @@
+[
+    {
+<<<<<<< HEAD
+=======
+        "outputFile": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-tl\\values-tl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 169,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 169,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 124,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 124,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 141,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 141,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 97,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 97,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 69,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 69,
+                        "endOffset": 655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 71,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 71,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 62,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 62,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 75,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 75,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 75,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 75,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 947,
+                    "endColumn": 107,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 107,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 77,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 77,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endColumn": 77,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 77,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endColumn": 91,
+                    "endOffset": 1298
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 91,
+                        "endOffset": 1298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1303,
+                    "endColumn": 106,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1303,
+                        "endColumn": 106,
+                        "endOffset": 1405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1410,
+                    "endColumn": 65,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1410,
+                        "endColumn": 65,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 66,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1476,
+                        "endColumn": 66,
+                        "endOffset": 1538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 150,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1543,
+                        "endColumn": 150,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 62,
+                    "endOffset": 1752
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 62,
+                        "endOffset": 1752
+                    }
+                }
+            }
+        ]
+    },
+    {
+>>>>>>> origin/master
+        "outputFile": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-tl\\values-tl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 169,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 169,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 124,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 124,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 141,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 141,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 97,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 97,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 69,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 69,
+                        "endOffset": 655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 71,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 71,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 62,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 62,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 75,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 75,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 75,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 75,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 947,
+                    "endColumn": 107,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 107,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 77,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 77,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endColumn": 77,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 77,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endColumn": 91,
+                    "endOffset": 1298
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 91,
+                        "endOffset": 1298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1303,
+                    "endColumn": 106,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1303,
+                        "endColumn": 106,
+                        "endOffset": 1405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1410,
+                    "endColumn": 65,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1410,
+                        "endColumn": 65,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 66,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1476,
+                        "endColumn": 66,
+                        "endOffset": 1538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 150,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1543,
+                        "endColumn": 150,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 62,
+                    "endOffset": 1752
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 62,
+                        "endOffset": 1752
+                    }
+                }
+            }
+        ]
+    }
+]

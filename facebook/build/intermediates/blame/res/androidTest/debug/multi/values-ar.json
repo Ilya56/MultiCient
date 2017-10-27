@@ -1,0 +1,699 @@
+[
+    {
+        "outputFile": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ar\\values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 149,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 149,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 105,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 105,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 127,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 127,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 92,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 92,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 65,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 65,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 68,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 68,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 64,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 64,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 70,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 70,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 77,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 77,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endColumn": 95,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 95,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 78,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endColumn": 78,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 78,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 78,
+                        "endOffset": 1130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endColumn": 90,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1135,
+                        "endColumn": 90,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 104,
+                    "endOffset": 1326
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1226,
+                        "endColumn": 104,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1331,
+                    "endColumn": 63,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 63,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 65,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 65,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 124,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 124,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 60,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 60,
+                        "endOffset": 1642
+                    }
+                }
+            }
+        ]
+<<<<<<< HEAD
+=======
+    },
+    {
+        "outputFile": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ar\\values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 149,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 149,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 105,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 105,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 127,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 127,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 92,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 92,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 65,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 65,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 68,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 68,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 64,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 64,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 70,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 70,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 77,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 77,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endColumn": 95,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 95,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 78,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endColumn": 78,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 78,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 78,
+                        "endOffset": 1130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endColumn": 90,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1135,
+                        "endColumn": 90,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 104,
+                    "endOffset": 1326
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1226,
+                        "endColumn": 104,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1331,
+                    "endColumn": 63,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 63,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 65,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 65,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 124,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 124,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 60,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\bundles\\debug\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 60,
+                        "endOffset": 1642
+                    }
+                }
+            }
+        ]
+>>>>>>> origin/master
+    }
+]

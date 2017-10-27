@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="equalizer">Еквалайзер</string>
+    <string name="sort">Сортировать</string>
+    <string name="time_default">00:00</string>
+    <string name="exit">Выйти</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="reload">Перезагрузить</string>
+    <string name="exit_account">Аккаунты</string>
+    <string name="welcome">Добро пожаловать в MultiClient!</string>
+    <string name="continue1">продолжить</string>
+    <string name="type_message">Введите сообщение</string>
+    <string name="search">Поиск</string>
+    <string name="new_post">Новая запись</string>
+    <string name="messages_news">Новости и сообщения</string>
+    <string name="audio">Аудиозаписи</string>
+    <string name="profile">Профиль</string>
+    <string name="post">Выложить</string>
+    <string name="messages">Сообщения</string>
+    <string name="log_in_vk">Войти с помощью Вконтакте</string>
+    <string name="add_to_friends">Добавить в друзья</string>
+    <string name="friends">Друзья</string>
+    <string name="news">Новости</string>
+    <string name="VK">ВКонтакте</string>
+    <string name="cant_show_fb_profile">Невозможно показать профиль из Facebook</string>
+    <string name="check_network">Проверьте подключение к интернету</string>
+    <string name="added_to_list">Добавлено в список</string>
+    <string name="removed_from_list">Удалено из списка</string>
+    <string name="post_deleted">Пост удалён</string>
+    <string name="names">Имена</string>
+    <string name="singers">Исполнители</string>
+    <string name="time">Время</string>
+    <string name="default1">Стандарт</string>
+    <string name="add_to_playlist">Добавить в плейлист</string>
+    <string name="choose_sort">Выберите сортировку</string>
+    <string name="delete_history">Удалить историю</string>
+    <string name="delete_post">Удалить пост</string>
+    <string name="dialog_deleted">Диалог удалён</string>
+    <string name="remove">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="posted">Опубликовано!</string>
+    <string name="write_message">Напишите сообщение</string>
+    <string name="followers">Подписчики</string>
+    <string name="friends_only">Только для друзей</string>
+    <string name="groups">Группы</string>
+    <string name="photo">Фото</string>
+    <string name="some_text">Какой-то текст</string>
+    <string name="filters">Фильтр</string>
+    <string name="request_sent">Запрос отправлен</string>
+    <string name="choose_filters">Выберите фильтр</string>
+    <string name="filter">Фильтр</string>
+    <string name="message">Сообщение</string>
+    <string name="like_post">Лайкнуто</string>
+    <string name="log_in_lfm">Войти с помощью Last.fm</string>
+    <string name="log_out">Выход</string>
+    <string name="login">Войти</string>
+    <string name="repost_post">Репостнуто!</string>
+    <string name="wrong_pass">Пожалуйста, введите правильные имя пользователя и пароль</string>
+    <string name="choose_some">Выберите соц. сеть</string>
+    <string name="reposted_from">Репостнуто от </string>
+    <string-array name="relation">
+        <item>Не указано</item>
+        <item>Не женат</item>
+        <item>Есть друг/подруга</item>
+        <item>Помолвлен/помолвлена</item>
+        <item>Женат/замужем</item>
+        <item>Всё сложно</item>
+        <item>В активном поиске</item>
+        <item>Влюблён/влюблена</item>
+        <item>В гражданском браке</item>
+    </string-array>
+    <string name="male">Мужчина</string>
+    <string name="female">Женщина</string>
+</resources>

@@ -1,0 +1,87 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">MultiClient</string>
+    <integer name="com_vk_sdk_AppId">5562390</integer>
+    <string name="title_activity_main_menu" translatable="false">MainMenuActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format" translatable="false">Hello World from section: %1$d</string>
+    <string name="title_activity_menu" translatable="false">MenuActivity</string>
+    <string name="facebook_app_id" translatable="false">1048758481908506</string>
+    <string name="lfm_api_key" translatable="false">586c165ee8501d97222a6970ec408c17</string>
+    <string name="lfm_api_sig" translatable="false">5a7548a255091881a8f227ac8540e242</string>
+    <string name="file_name" translatable="false">data</string>
+
+    <!--my strings in this app-->
+    <string name="equalizer">Equalizer</string>
+    <string name="sort">Sort</string>
+    <string name="time_default">00:00</string>
+    <string name="exit">Exit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="reload">Reload</string>
+    <string name="exit_account">Accounts</string>
+    <string name="welcome">Welcome to MultiClient!</string>
+    <string name="continue1">continue</string>
+    <string name="type_message">Type message</string>
+    <string name="search">Search</string>
+    <string name="new_post">New post</string>
+    <string name="messages_news">News and messages</string>
+    <string name="audio">Audio</string>
+    <string name="profile">Profile</string>
+    <string name="post">Post</string>
+    <string name="messages">Messages</string>
+    <string name="log_in_vk">Log in with VK</string>
+    <string name="log_out">Log out</string>
+    <string name="add_to_friends">Add to friends</string>
+    <string name="friends">Friends</string>
+    <string name="news">News</string>
+    <string name="VK">VK</string>
+    <string name="cant_show_fb_profile">"Can't show profile from Facebook"</string>
+    <string name="check_network">Check network connection</string>
+    <string name="added_to_list">Added to list</string>
+    <string name="removed_from_list">Removed from list</string>
+    <string name="post_deleted">Post deleted</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="remove">Remove</string>
+    <string name="choose_sort">Choose sort</string>
+    <string name="delete_history">Delete history</string>
+    <string name="delete_post">Delete post</string>
+    <string name="dialog_deleted">Dialog deleted</string>
+    <string name="posted">Posted!</string>
+    <string name="write_message">Write message</string>
+    <string name="cancel">Cancel</string>
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="friends_only">Friends only</string>
+    <string name="some_text">Some text</string>
+    <string name="photo">Photo</string>
+    <string name="followers">Followers</string>
+    <string name="groups">Groups</string>
+    <string name="request_sent">Request sent</string>
+    <string name="filter">Filter</string>
+    <string name="choose_filters">Choose filters</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="message">Message</string>
+    <string name="like_post">Post liked!</string>
+    <string name="default1">Default</string>
+    <string name="names">Names</string>
+    <string name="singers">Singers</string>
+    <string name="time">Time</string>
+    <string name="repost_post">Reposted!</string>
+    <string name="log_in_lfm">Log in with Last.fm</string>
+    <string name="login">Login</string>
+    <string name="wrong_pass">Please enter correct username and password</string>
+    <string name="choose_some">Choose social network</string>
+    <string name="reposted_from">Reposted from</string>
+    <string-array name="relation">
+        <item>Not specified</item>
+        <item>Not married</item>
+        <item>Have a friend/girlfriend</item>
+        <item>Engaged</item>
+        <item>Married</item>
+        <item>All difficult</item>
+        <item>Actively looking</item>
+        <item>In love</item>
+        <item>In a civil marriage</item>
+    </string-array>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>

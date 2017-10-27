@@ -1,0 +1,23 @@
+[
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\color\\com_facebook_button_text_color.xml"
+=======
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\color\\com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\_Kval\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "D:\\_Kval\\MultiClient\\facebook\\src\\main\\res\\color\\com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\J\\MultiClient\\facebook\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "D:\\J\\MultiClient\\facebook\\src\\main\\res\\color\\com_facebook_send_button_text_color.xml"
+>>>>>>> origin/master
+    }
+]

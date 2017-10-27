@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main"><source path="D:\_Kval\MultiClient\facebook\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\_Kval\MultiClient\facebook\src\release\shaders"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="D:\J\MultiClient\facebook\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\J\MultiClient\facebook\src\release\shaders"/></dataSet></merger>
+>>>>>>> origin/master

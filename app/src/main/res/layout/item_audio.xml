@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants">
+
+    <ImageButton
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/item_play_stop"
+        android:src="@drawable/ic_play_arrow_black_36dp" />
+
+    <TextView
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:textSize="18sp"
+        android:id="@+id/item_name"
+        android:gravity="left"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/item_play_stop"
+        android:layout_toEndOf="@+id/item_play_stop"
+        android:textColor="@color/colorSecond"/>
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/time_default"
+        android:id="@+id/time"
+        android:gravity="right"
+        android:layout_alignTop="@+id/item_name"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Singer"
+        android:textSize="18sp"
+        android:textColor="#BBBBBB"
+        android:id="@+id/item_singer"
+        android:layout_below="@+id/item_name"
+        android:layout_toRightOf="@+id/item_play_stop"
+        android:layout_toEndOf="@+id/item_play_stop" />
+
+</RelativeLayout>
